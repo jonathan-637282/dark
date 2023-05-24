@@ -27,7 +27,7 @@
   --watermark-filter-sepia: 50%;
   --watermark-filter-saturate: 3000%;
   --watermark-filter-hue-rotate: 210deg;
-  --watermark-filter-brightness: 0%;
+  --watermark-filter-brightness: 70%;
   --watermark-filter-contrast: 200%;
   --darkplus-emoji-picker-color: 210deg;
 }
@@ -957,7 +957,6 @@ button[aria-label="Send a gift"] {
 .wordmark-2u86JB > svg {
   display: none;
 }
-
 
 .channelName-3KPsGw,
 .subtitle-3PyFgf {
